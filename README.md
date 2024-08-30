@@ -1,0 +1,3 @@
+This repository features a travel agency landing page designed to help you plan and book your next trip. It serves as an excellent tool for vacation planning, providing comprehensive information about destinations, including well-known attractions.
+The page offers special discounts and promotions for bookings, making it an attractive option for travelers. Additionally, it includes ratings and reviews to help you make informed decisions about your destination.
+As a top-notch vacation planning guide, the page outlines the details of various trip packages and their duration. You can also sign up with the travel agency for more information and personalized travel updates.
